@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on
     - Libft, where we have to make our own library.
-         - 
+      
 - 🌱 Languages
     - Mostly C, but have also tried Python & Java.
 
