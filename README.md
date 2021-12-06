@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## I'm Erik, also know as emende...
-# Student at Hive Helsinki, a 42 coding school in Helsinki, Finlalnd.
+### I'm Erik, also know as emende...
+### Student at Hive Helsinki, a 42 coding school in Helsinki, Finlalnd.
 
 - 🔭 I’m currently working on
     - Libft, where we have to make our own library.
