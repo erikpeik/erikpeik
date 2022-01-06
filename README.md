@@ -13,3 +13,5 @@
 - 📫 How to reach me:
     - erikpeik@outlook.com
     - [Linkedin](https://www.linkedin.com/in/erikpeik/)
+
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emende)](https://github.com/JaeSeoKim/badge42)
