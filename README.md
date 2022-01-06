@@ -14,4 +14,4 @@
     - erikpeik@outlook.com
     - [Linkedin](https://www.linkedin.com/in/erikpeik/)
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emende?cursus=42)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/emende?cursus=42?darkmode=true)](https://github.com/JaeSeoKim/badge42)
