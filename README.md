@@ -4,11 +4,11 @@
 ### Student at [Hive Helsinki](https://www.hive.fi/), a 42 coding school in Helsinki, Finland. 🇫🇮
 
 - 🔭 I’m currently working on
-    - [GET_Next_Line](https://github.com/erikpeik/GET_Next_Line), The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
     - [Fillit](https://github.com/erikpeik/fillit), take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible. Collab with [altikka](https://github.com/reviisori)!
 
 - ✅ Projects that I have done
      - [Libft](https://github.com/erikpeik/libft), where we have to make our own library.
+     - [GET_Next_Line](https://github.com/erikpeik/GET_Next_Line), The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
 
 - 🌱 Languages
     - Mostly C, but have also tried Python & Java.
