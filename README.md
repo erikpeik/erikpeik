@@ -4,11 +4,12 @@
 ### Student at [Hive Helsinki](https://www.hive.fi/), a 42 coding school in Helsinki, Finland. 🇫🇮
 
 - 🔭 I’m currently working on
-    - [Fillit](https://github.com/erikpeik/fillit), take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible. Collab with [altikka](https://github.com/reviisori)!
+    - Starting doing [init](https://github.com/erikpeik/init) for now, and after that have to still think about what branch I will choose.
 
 - ✅ Projects that I have done
-     - [Libft](https://github.com/erikpeik/libft), where we have to make our own library.
+    - [Fillit](https://github.com/erikpeik/fillit), take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible. Collab with [altikka](https://github.com/reviisori)!
      - [GET_Next_Line](https://github.com/erikpeik/GET_Next_Line), The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
+     - [Libft](https://github.com/erikpeik/libft), where we have to make our own library.
 
 - 🌱 Languages
     - Mostly C, but have also tried Python & Java.
