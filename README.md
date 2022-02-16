@@ -4,7 +4,7 @@
 ### Student at [Hive Helsinki](https://www.hive.fi/), a 42 coding school in Helsinki, Finland. 🇫🇮
 
 - 🔭 I’m currently working on
-    - Starting doing [init](https://github.com/erikpeik/init) for now, and after that have to still think about what branch I will choose.
+    - Starting doing [init](https://github.com/erikpeik/init), and after that have to still think about what branch I will choose.
 
 - ✅ Projects that I have done
     - [Fillit](https://github.com/erikpeik/fillit), take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible. Collab with [altikka](https://github.com/reviisori)!
