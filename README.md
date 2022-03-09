@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm Erik, also know as emende...
 ### Student at [Hive Helsinki](https://www.hive.fi/), a 42 coding school in Helsinki, Finland. 🇫🇮
 
 - 🔭 I’m currently working on
-    - Started doing [init](https://github.com/erikpeik/init), and after that have to still think about what branch I will choose.
+    - In free time doing [hive-arena](https://github.com/erikpeik/Hive-Arena), friendly AI compatition for Hivers
 
 - ✅ Projects that I have done
+    - [init](https://github.com/erikpeik/init), this project is an introduction to system and network administration.
     - [Fillit](https://github.com/erikpeik/fillit), take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible. Collab with [altikka](https://github.com/reviisori)!
      - [GET_Next_Line](https://github.com/erikpeik/GET_Next_Line), The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
      - [Libft](https://github.com/erikpeik/libft), where we have to make our own library.
@@ -18,4 +19,4 @@
     - erikpeik@outlook.com
     - [Linkedin](https://www.linkedin.com/in/erikpeik/)
 
-[![emende's 42 stats](https://badge42.herokuapp.com/api/stats/emende?cursus=42)](https://github.com/JaeSeoKim/badge42)
+<!--- [![emende's 42 stats](https://badge42.herokuapp.com/api/stats/emende?cursus=42)](https://github.com/JaeSeoKim/badge42) -->
