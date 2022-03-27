@@ -4,9 +4,10 @@
 ### Student at [Hive Helsinki](https://www.hive.fi/), a 42 coding school in Helsinki, Finland. 🇫🇮
 
 - 🔭 I’m currently working on
-    - In free time doing [hive-arena](https://github.com/erikpeik/Hive-Arena), friendly AI compatition for Hivers
+    - [FdF](https://github.com/erikpeik/FdF), first project in Graphics branch, where you have to make simple wireframe rendering using MinilibX -library. 
 
 - ✅ Projects that I have done
+    - [hive-arena](https://github.com/erikpeik/Hive-Arena), friendly AI compatition for Hivers.
     - [init](https://github.com/erikpeik/init), this project is an introduction to system and network administration.
     - [Fillit](https://github.com/erikpeik/fillit), take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible. Collab with [altikka](https://github.com/reviisori)!
      - [GET_Next_Line](https://github.com/erikpeik/GET_Next_Line), The aim of this project is to make you code a function that returns a line ending with a newline, read from a file descriptor.
