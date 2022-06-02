@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <img width='25' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"> Hi there !
 
 ### 👨‍💻 About me:
 - Student at [Hive Helsinki](https://www.hive.fi/), a 42 coding school in Helsinki, Finland. 🇫🇮
