@@ -12,5 +12,3 @@
 ### 📫 How to reach me:
 - <a href='https://www.linkedin.com/in/erikpeik/'><img heigth='50' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 - erikpeik@outlook.com
-
-[![emende's 42 stats](https://badge42.vercel.app/api/v2/cl1nsfqfo001109mvs5t8vwj5/stats?cursusId=1&coalitionId=57)](https://github.com/JaeSeoKim/badge42)
