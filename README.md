@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me:
 - Alumni at [Hive Helsinki](https://www.hive.fi/), a 42-coding school in Helsinki, Finland. 🇫🇮
-- Working as a Software Developer at Tietoevry
+- Working as a Software Developer at Tieto
 - In my free time, I host Counter-Strike servers for [JonneKahvila](https://jonnekahvila.fi)
 
 ### 📫 How to reach me:
